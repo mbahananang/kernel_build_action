@@ -6,10 +6,11 @@ branding:
   color: 'blue'
 
 inputs:
-  kernel-url: 'https://github.com/mbahananang/kernel_xiaomi_surya-skyyHorizon'
+  kernel-url: https://github.com/rd-stuffs/AnyKernel3/tree/FSociety
     description: 'Kernel Source Url'
     required: true
   depth:
+    description: 'The depth of the kernel tree'
     required: false
     default: 1
   vendor-url:
