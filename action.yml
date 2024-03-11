@@ -9,7 +9,7 @@ inputs:
   kernel-url: https://github.com/mbahananang/kernel_xiaomi_surya-skyyHorizon.git
     description: 'Kernel Source Url'
     required: true
-  depth:
+  depth: false
     required: false
     default: 1
   vendor-url:
