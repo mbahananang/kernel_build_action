@@ -6,7 +6,7 @@ branding:
   color: 'blue'
 
 inputs:
-  kernel-url: https://github.com/mbahananang/kernel_xiaomi_surya-skyyHorizon
+  kernel-url: 'https://github.com/mbahananang/kernel_xiaomi_surya-skyyHorizon'
     description: 'Kernel Source Url'
     required: true
   depth:
